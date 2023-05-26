@@ -37,3 +37,6 @@ How to run this code:
 	rosbag play your_bag_file.bag
 
 6. See the output in terminal were packages are running. Alternatively, if output is set to write to file, wait for completition of rosbag and check out folder with outputs.
+
+
+Note: The trained neural networks are not included in this repository.
