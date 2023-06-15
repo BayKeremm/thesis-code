@@ -1,5 +1,5 @@
 
-Summary
+Summary\
 This work presents a pipelined approach for a camera detection system to detect cones in frames
 and recover their 3D position. It employs an object detection model, a keypoint regression model,
 and the Perspective-n-Point algorithm. 
